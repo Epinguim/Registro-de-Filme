@@ -41,4 +41,4 @@ Se você preferir **compilar o código-fonte** para gerar o executável, siga as
 1. Acesse o repositório no GitHub e baixe o código-fonte. Você pode fazer isso clicando em **"Code"** e depois em **"Download ZIP"** ou clonando o repositório com o Git:
 
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+  [ git clone https://github.com/seu_usuario/seu_repositorio.git](https://github.com/Epinguim/Registro-de-Filme.git)
